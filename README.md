@@ -1,4 +1,4 @@
-# Argo xray for PaaS
+# Argo xray for PaaSs
 By https://github.com/Misaka-blog
 
 ## Project Features
